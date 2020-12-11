@@ -442,3 +442,11 @@ input[type=submit]:hover {
 .drugi-o-nama p {
 	font-style: italic;
 }
+
+iframe {
+	position:absolute;
+	left: -340px;
+	height: 197px;
+	width: 250px;
+	top: 409px;
+}

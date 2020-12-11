@@ -1,0 +1,17 @@
+<rss version="2.0">
+	<channel>
+		<title>Poluvreme Gym</title>
+		<link>https://stefanmihajlov.github.io</link>
+		<description>Poluvreme Gym - Dobrodosli u nas RSS program</description>
+		<item>
+			<title>COVID 19 | Poluvreme Gym</title>
+			<link>https://stefanmihajlov.github.io/covid-alert.html</link>
+			<description>Obavestenje povodom epidemioloskih mera!</description>
+		</item>
+		<item>
+			<title>Crni petak | Poluvreme Gym</title>
+			<link>https://stefanmihajlov.github.io/crni-petak.html</link>
+			<description>Veliki popusti povodom crnog petka!</description>
+		</item>
+	</channel>
+</rss>
