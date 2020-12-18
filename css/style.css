@@ -215,6 +215,11 @@ h2 {
   border-radius: 10px;
 }
 
+.drugi-o-nama p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+}
+
 .drugi-o-nama:hover {
 	box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
